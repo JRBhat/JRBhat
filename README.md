@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jayesh
-**🌟 Python Developer | AI Enthusiast | Innovating Healthcare and Clinical Research with Code**  
+**🌟 Python Developer | AI Enthusiast | Currently innovating Healthcare and Clinical Research with Code**  
 
 Welcome to my GitHub! I’m a Python developer with a passion for building AI-driven solutions and automating workflows. My work focuses on combining cutting-edge machine learning, image processing, and automation techniques to optimize processes in healthcare and clinical research.  
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a Python developer with a passion for building AI-dr
   - Build AI/ML solutions for healthcare imaging and clinical workflows.  
   - Automate repetitive tasks using scripting and workflow orchestration tools.  
 - 🚀 **Currently Exploring**: Computer vision, deep learning, and advanced process automation.  
-- 🎯 **Goal**: Collaborate on impactful AI/ML projects, especially in healthcare and imaging.  
+- 🎯 **Goal**: All the interesting projects you find here wouldn't have been successful without the support, tips and mentorship of people way smarter than me from other diverse backgrounds. I feel both lucky and grateful for having had the chance to collaborate with them. That's why I want to stay open for future collaboration on impactful AI/ML/Software projects, especially in healthcare, automation and imaging. Feel free to reach out. Cheers!
 
 ---
 
@@ -43,33 +43,16 @@ Welcome to my GitHub! I’m a Python developer with a passion for building AI-dr
 **Description**: Developed a Python-based algorithm to segment image stacks and map intensity values to skin depth for clinical trials.  
 - **Tech Stack**: Python, OpenCV, NumPy, TensorFlow.  
 - **Impact**: Improved analysis accuracy by 40% and reduced manual effort by 10+ hours per trial.  
-- [Repository Link](#)
-
+- [Coming soon]
 ---
 
-### **2. Clinical Workflow Automation**  
-**Description**: Built automation scripts to streamline repetitive clinical trial tasks.  
-- **Tools**: Python, Power Automate, VBA.  
+### **2. Clinical Imaging Workflow Automation**  
+**Description**: Built automation scripts to streamline repetitive clinical image post processing tasks.  
+- **Tools**: Python, Latex, Excel and VBA  
 - **Impact**: Reduced technician workload by 30% and minimized human error.  
 - [Repository Link](#)
 
----
 
-### **3. EEG and GSR Data Processing**  
-**Description**: Created Python pipelines to process and analyze data from EEG and GSR devices used in clinical trials.  
-- **Tech Stack**: Python (Pandas, Matplotlib), Signal Processing Libraries.  
-- **Impact**: Enabled real-time insights and reduced data processing time by 50%.  
-- [Repository Link](#)
-
----
-
-### **4. 3D-Printed Solutions for Healthcare**  
-**Description**: Designed STL files for custom medical device parts and workflow optimizations.  
-- **Tools**: FreeCAD, Python (for design automation).  
-- **Impact**: Saved $10,000+ in equipment repair costs and enhanced device reliability.  
-- [Repository Link](#)
-
----
 
 ## 🌟 My Focus Areas  
 
@@ -83,7 +66,7 @@ Welcome to my GitHub! I’m a Python developer with a passion for building AI-dr
 
 3. **Healthcare & Clinical Research**:  
    - Innovating imaging workflows for clinical trials.  
-   - Developing AI tools to assist healthcare professionals.  
+   - Developing AI tools and GUIs to assist healthcare professionals.  
 
 ---
 
@@ -93,4 +76,4 @@ Welcome to my GitHub! I’m a Python developer with a passion for building AI-dr
 - **Portfolio/Blog**: Coming soon!
 - **Email**: jayesh.r.bhat@gmail.com
 
-Let’s collaborate on innovative Python, AI/ML, or automation projects that solve real-world challenges!  
+Let’s collaborate on innovative Python, AI/ML/DS, or automation projects that solve real-world challenges!  
