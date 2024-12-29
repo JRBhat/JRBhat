@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jayesh
 **🌟 Python Developer | AI Enthusiast | Currently innovating Healthcare and Clinical Research with Code**  
 
-Welcome to my GitHub! I’m a Python developer with a passion for building AI-driven solutions and automating workflows. My work focuses on combining cutting-edge machine learning, image processing, and automation techniques to optimize processes in healthcare and clinical research.  
+Welcome to my GitHub! I’m a Scientist(Healthcare) and a Python developer with a passion for building AI-driven solutions and Automating workflows. My work focuses on combining cutting-edge machine learning, image processing, and automation techniques to optimize processes in healthcare and clinical research.  
 
 ---
 
