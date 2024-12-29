@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m a Scientist(Healthcare) and a Python developer with 
 
 ## 🧑‍💻 About Me  
 
-- 🔬 **Background**: I started as an R&D Project Scientist specializing in clinical trials for skincare and cosmetic products. I transitioned my expertise into coding and AI/ML applications to solve real-world challenges in healthcare.  
+- 🔬 **Background**: I started as an R&D Project Scientist specializing in clinical trials for skincare and cosmetic products, but slowly transitioned my expertise into coding and AI/ML applications to solve real-world challenges in healthcare.  
 - 🛠️ **What I Do**:  
   - Develop Python-based tools for data processing, image analysis, and automation.  
   - Build AI/ML solutions for healthcare imaging and clinical workflows.  
