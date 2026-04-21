@@ -1,20 +1,24 @@
 # 👋 Hi, I'm Jayesh
 **🌟 Python user | AI/ML/DL Enthusiast | Currently innovating Healthcare and Clinical Imaging**  
 
-Welcome to my GitHub! I’m an Applied Scientist (Healthcare/Medical) and a Python developer with a passion for building AI-driven solutions and Automating workflows. My work focuses on combining cutting-edge machine learning, image processing, and automation techniques to optimize processes in healthcare and clinical research.  
-
+Welcome to my GitHub! I’m an Applied Scientist (Healthcare/Medical) and a Python developer with a passion for building AI-driven solutions and Automating workflows. My work focuses on developimg cutting-edge optimized and validated processes in healthcare and clinical research using algorithms based on machine learning, deep learning, image processing, and python.
 ---
 
 ## 🧑‍💻 About Me  
 
-- 🔬 **Background**: I started as an R&D Project Scientist specializing in clinical trials for skincare and cosmetic products, but slowly transitioned my expertise into using clinical Imaging, Automation and AI/ML applications using Python to solve real-world challenges in healthcare.  
+- 🔬 **Background**: I started as an R&D Project Scientist specializing in clinical trials for skincare and cosmetic products, but slowly transitioned my expertise into using clinical Imaging, Automation and software development. Currently, my focus has shifted to AI/ML applications using Python and Pytorch to solve real-world challenges in my industrial domain.
+  
 - 🛠️ **What I Do**:  
-  - Develop Python-based tools for data processing, image analysis, and automation.  
+  - Develop Python-based tools, pipelines and applications for data processing, image analysis, and workflow automation.  
   - Build AI/ML solutions for healthcare imaging and clinical workflows using Pytorch.  
-  - Automate repetitive tasks using scripting and workflow orchestration tools.
-  - Validating and optimizing codebase using Claude Code and Github Co-Pilot for AI assisted Spec-driven development  
-- 🚀 **Currently Exploring**: Advanced Computer vision algorithms, deep learning models, RAG and MCP based architechtures and advanced CUDA and Python optimization libraries.  
-- 🎯 **Goal**: All the interesting projects you find here wouldn't have been successful without the support, tips and mentorship of people way smarter than me from other diverse backgrounds. I feel both lucky and grateful for having had the chance to collaborate with them. That's why my goal is to stay open and stay curious for future collaboration on impactful AI/ML/Software projects, especially in healthcare, automation and imaging. Volunteering projects are also welcome. Feel free to reach out. Cheers!
+  - Automate repetitive tasks using a plethora of python libraries.
+  - Validating and optimizing codebase using Claude Code and Github Co-Pilot as part of AI assisted Spec-driven development
+      
+- 🚀 **Currently Exploring**:
+Advanced Computer vision algorithms, deep learning models, RAG and MCP based architechtures and advanced Python and Pytorch libraries and architecture patterns.
+    
+- 🎯 **Goal**:
+All the interesting projects you find here wouldn't have been successful without the support, tips and mentorship of people way smarter than me from other diverse backgrounds. I feel both lucky and grateful for having had the chance to collaborate with them. That's why my goal is to stay open and stay curious for future collaboration on impactful AI/ML/Software projects, especially in healthcare, automation and imaging. Volunteering projects are also welcome. Feel free to reach out. Cheers!
 ---
 
 ## 🛠️ Technical Skills  
